@@ -4,12 +4,12 @@ version: 1.0.3
 homepage: https://github.com/alihassan143/htmltopdfwidgets
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  pdf: ">=3.10.3 <4.0.0"
-  html: ">=0.15.3 <1.0.0"
-  http: ">=0.13.1 <2.0.0"
+  pdf:
+  html:
+  http:
 dependency_overrides:
   pdf:
     git:
